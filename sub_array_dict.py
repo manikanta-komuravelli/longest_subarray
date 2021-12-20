@@ -26,7 +26,7 @@ def sub_array(arr,n,start=0):
     
 arr1= [1,2,3,1,2,1,2,3,4,5,6,4,5,6,5,4,3,2,1]
 
-sub_array(arr,2) 
+sub_array(arr1,2) 
 
 
     
